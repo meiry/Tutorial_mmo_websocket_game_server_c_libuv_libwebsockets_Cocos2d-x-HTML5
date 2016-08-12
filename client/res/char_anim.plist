@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>l0_sprite_b_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{18,0},{8,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{4,5},{8,10}}</string>
+				<key>sourceSize</key>
+				<string>{16,16}</string>
+			</dict>
+
+			<key>l0_sprite_b_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{27,12},{8,11}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{4,4},{8,11}}</string>
+				<key>sourceSize</key>
+				<string>{16,16}</string>
+			</dict>
+
+			<key>l0_sprite_b_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{27,0},{8,11}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{4,4},{8,11}}</string>
+				<key>sourceSize</key>
+				<string>{16,16}</string>
+			</dict>
+
+			<key>l0_sprite_r_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{18,11},{8,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,2},{8,10}}</string>
+				<key>sourceSize</key>
+				<string>{8,12}</string>
+			</dict>
+
+			<key>l0_sprite_r_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{36,0},{8,11}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{8,11}}</string>
+				<key>sourceSize</key>
+				<string>{8,12}</string>
+			</dict>
+
+			<key>l0_sprite_r_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{9,11},{8,11}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,1},{8,11}}</string>
+				<key>sourceSize</key>
+				<string>{8,12}</string>
+			</dict>
+
+			<key>l0_sprite_y_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{9,0},{8,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,2},{8,10}}</string>
+				<key>sourceSize</key>
+				<string>{8,12}</string>
+			</dict>
+
+			<key>l0_sprite_y_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,12},{8,11}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{8,11}}</string>
+				<key>sourceSize</key>
+				<string>{8,12}</string>
+			</dict>
+
+			<key>l0_sprite_y_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{8,11}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,1},{8,11}}</string>
+				<key>sourceSize</key>
+				<string>{8,12}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{64,32}</string>
+			<key>textureFileName</key>
+			<string>sprites.png</string>
+			</dict>
+		</dict>
+</plist>
